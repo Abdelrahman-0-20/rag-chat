@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments  (you used "venv", not ".venv" -- make sure this is here)
+venv/
+.venv/
+env/
+
+# Index artifacts (rebuildable, and large)
+index/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml

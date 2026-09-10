@@ -1,0 +1,52 @@
+[
+  {
+    "question": "what was total revenue in fiscal 2024",
+    "expected_source": "annual_report.pdf",
+    "expected_page": 12
+  },
+  {
+    "question": "how did revenue change compared to the previous year",
+    "expected_source": "annual_report.pdf",
+    "expected_page": 12
+  },
+  {
+    "question": "who was the independent auditor",
+    "expected_source": "annual_report.pdf",
+    "expected_page": 44
+  },
+  {
+    "question": "how many employees did the company have at year end",
+    "expected_source": "annual_report.pdf",
+    "expected_page": 7
+  },
+  {
+    "question": "what is the remote work policy",
+    "expected_source": "employee_handbook.pdf",
+    "expected_page": 4
+  },
+  {
+    "question": "how many days of annual leave are employees entitled to",
+    "expected_source": "employee_handbook.pdf",
+    "expected_page": 9
+  },
+  {
+    "question": "what is the parental leave entitlement",
+    "expected_source": "employee_handbook.pdf",
+    "expected_page": 11
+  },
+  {
+    "question": "how do I submit an expense claim",
+    "expected_source": "employee_handbook.pdf",
+    "expected_page": 15
+  },
+  {
+    "question": "what are the main risks listed by management",
+    "expected_source": "annual_report.pdf",
+    "expected_page": 23
+  },
+  {
+    "question": "who are the members of the board of directors",
+    "expected_source": "annual_report.pdf",
+    "expected_page": 3
+  }
+]
