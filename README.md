@@ -9,9 +9,6 @@ an LLM to answer using **only** those chunks. Every answer cites the
 source, and the model is instructed to say "I don't know" rather than
 guess when the context doesn't contain the answer.
 
-![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![Streamlit](https://img.shields.io/badge/streamlit-1.40%2B-red)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
