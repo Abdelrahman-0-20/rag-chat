@@ -23,7 +23,7 @@ Before you start, make sure you have:
 | **~500 MB free disk** | For the two model downloads | — |
 | **At least one PDF** | The documents you want to query | Yours |
 
-### ⚠️ You must have an OpenRouter API key
+### Note:  You must have an OpenRouter API key
 
 This project **will not generate answers without an API key**. Retrieval
 will still work — you'll see the chunks that matched your question — but
